@@ -1,0 +1,5 @@
+{
+  "singleWorker": true,
+  "connection": {},
+  "dependency": ["ndut-queue"]
+}

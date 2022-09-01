@@ -1,0 +1,28 @@
+{
+  "name": "ndut-gpsd",
+  "version": "0.7.0",
+  "description": "GPSD client connection for Ndut Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/ndut-gpsd.git"
+  },
+  "keywords": [
+    "gpsd",
+    "client",
+    "ndut",
+    "fastify"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/ndut-gpsd/issues"
+  },
+  "homepage": "https://github.com/ardhi/ndut-gpsd#readme",
+  "dependencies": {
+    "node-gpsd-client": "^1.4.1"
+  }
+}
